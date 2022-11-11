@@ -774,7 +774,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -866,7 +866,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    
+
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -1082,4 +1082,8 @@ h4 {
 
 .bold{
     font-weight: bold;
+}
+
+.black{
+    color: #000000 !important;
 }
